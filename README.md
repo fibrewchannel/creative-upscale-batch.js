@@ -1,4 +1,4 @@
-# Create Upscale Batch
+# Creative Upscale Batch
 
 A batch processing script for [Draw Things](https://drawthings.ai/) that applies high-quality AI upscaling to multiple images automatically.
 
